@@ -4,7 +4,7 @@
 
 - Pythonista
 - Listen to the dolphins
-- currently full stack dev working with nuxt, Laravel, mongoDB, and various others
+- currently full stack dev working in fintech with php, js, and devopsy stuff
 
 <!--
 **micha2718l/micha2718l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
